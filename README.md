@@ -1,4 +1,4 @@
-# GANs
+# Generative Adversarial Networks (GANs)
 
 The repository is for studying GANs.
 

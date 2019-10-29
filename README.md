@@ -2,7 +2,7 @@
 
 The repository is for studying GANs.
 
-GAN Diagram (An example explanation):
+GAN Diagram (Just a funny explanation):
 Generator helps Joker look like an ordinary person in Training Set then Batman (Discriminator) can not distinguish him and other people. Joker can join the ceremony.
 
 <img src="images/new_gan_diagram_LA.png" width="800">

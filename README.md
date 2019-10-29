@@ -3,7 +3,7 @@
 The repository is for studying GANs.
 
 GAN Diagram (An example explanation):
-Generator helps Joker look like a normal person in Training Set so Batman (Discriminator) can not recognize him. Joker can join the ceremony.
+Generator helps Joker look like an ordinary person in Training Set then Batman (Discriminator) can not distinguish him and other people. Joker can join the ceremony.
 
 <img src="images/gan_diagram_LA.png" width="800">
 

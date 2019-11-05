@@ -14,7 +14,6 @@ Generator helps Joker look like an ordinary person in Training Set then Batman (
 ## 2. Super Resolution GAN (SRGAN) Testing on CelebFaces Attributes (CelebA) Dataset:
 
 <img src="images/srgan_e50.png" width="800">
-
 <img src="images/srgan_e3000.png" width="800">
 
 Nov. 2019

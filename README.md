@@ -7,10 +7,16 @@ Generator helps Joker look like an ordinary person in Training Set then Batman (
 
 <img src="images/new_gan_diagram_LA.png" width="800">
 
-Deep Convolutional GAN (DCGAN) Testing on MNIST Dataset:
+## 1. Deep Convolutional GAN (DCGAN) Testing on MNIST Dataset:
 
 <img src="images/GAN_output.png" width="800">
 
-Oct. 2019
+## 2. Super Resolution GAN (SRGAN) Testing on CelebFaces Attributes (CelebA) Dataset:
+
+<img src="images/srgan_e50.png" width="800">
+
+<img src="images/srgan_e3000.png" width="800">
+
+Nov. 2019
 
 Tran Le Anh

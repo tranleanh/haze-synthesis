@@ -16,6 +16,16 @@ Generator helps Joker look like an ordinary person in Training Set then Batman (
 <img src="images/srgan_e50.png" width="800">
 <img src="images/srgan_e3000.png" width="800">
 
+## 3. How to run:
+1. DCGAN:
+```bashrc
+$ python3 dcgan.py
+```
+2. SRGAN - Follow the steps at the beginning of srgan.py, then run the command:
+```bashrc
+$ python3 srgan.py
+```
+
 Nov. 2019
 
 Tran Le Anh

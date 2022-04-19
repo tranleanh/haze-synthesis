@@ -28,7 +28,26 @@ Medium article: [Synthesize Hazy/Foggy Image using Monodepth and Atmospheric Sca
 - 3rd row: synthesized hazy images with dense haze
 <img src="docs/synthesized-haze-2.png" width="900">
 
+### Citation
+```
+@article{tran2022novel,
+  title={A Novel Encoder-Decoder Network with Guided Transmission Map for Single Image Dehazing},
+  author={Tran, Le-Anh and Moon, Seokyong and Park, Dong-Chul},
+  journal={arXiv preprint arXiv:2202.04757},
+  year={2022}
+}
+```
+```
+@inproceedings{tran2022novel,
+  title={A Novel Encoder-Decoder Network with Guided Transmission Map for Single Image Dehazing},
+  author={Tran, Le-Anh and Moon, Seokyong and Park, Dong-Chul},
+  booktitle={International Conference on Industry Science and Computer Sciences Innovation (iSCSi’22)},
+  year={2022}
+}
+```
+
+Have fun!
+
+LA Tran
 
 Oct. 2021
-
-Le-Anh Tran

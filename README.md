@@ -31,20 +31,16 @@ Medium article: [Synthesize Hazy/Foggy Image using Monodepth and Atmospheric Sca
 ### Citation
 ```
 @article{tran2022novel,
-  title={A Novel Encoder-Decoder Network with Guided Transmission Map for Single Image Dehazing},
+  title={A novel encoder-decoder network with guided transmission map for single image dehazing},
   author={Tran, Le-Anh and Moon, Seokyong and Park, Dong-Chul},
-  journal={arXiv preprint arXiv:2202.04757},
-  year={2022}
+  journal={Procedia Computer Science},
+  volume={204},
+  pages={682--689},
+  year={2022},
+  publisher={Elsevier}
 }
 ```
-```
-@inproceedings{tran2022novel,
-  title={A Novel Encoder-Decoder Network with Guided Transmission Map for Single Image Dehazing},
-  author={Tran, Le-Anh and Moon, Seokyong and Park, Dong-Chul},
-  booktitle={International Conference on Industry Science and Computer Sciences Innovation (iSCSi’22)},
-  year={2022}
-}
-```
+
 
 Have fun!
 

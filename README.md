@@ -1,4 +1,4 @@
-# Synthesize Hazy/Foggy Image using Monodepth and Atmospheric Scattering Model
+# Hazy Image Synthesis based on Monodepth and Atmospheric Scattering Model
 
 This project is to synthesize hazy/foggy image using Monodepth and atmospheric scattering model.
 

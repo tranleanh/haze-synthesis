@@ -6,6 +6,10 @@ Authors: Le-Anh Tran, Chung Nguyen Tran, Dong-Chul Park, Jordi Carrabina, David 
 
 <!--- Medium: [Synthesize Hazy/Foggy Image using Monodepth and Atmospheric Scattering Model](https://leanhtrann.medium.com/synthesize-hazy-foggy-image-using-monodepth-and-atmospheric-scattering-model-9850c721b74e) --->
 
+<p align="center">
+<img src="docs/examples.png" width="900">
+</p>
+
 ### Dependencies
 - Pytorch
 - OpenCV

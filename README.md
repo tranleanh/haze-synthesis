@@ -1,15 +1,24 @@
-# Hazy Image Synthesis based on Monodepth and Atmospheric Scattering Model
+# Hazy/Dusty Image Synthesis for Driving Scenarios
 
-This project is to synthesize hazy/foggy image using Monodepth and atmospheric scattering model.
+Paper: Toward Improving Robustness of Object Detectors against Domain Shift (GECOST 2024) [arXiv] [[Medium](https://leanhtrann.medium.com/synthesize-hazy-foggy-image-using-monodepth-and-atmospheric-scattering-model-9850c721b74e)]
 
-Medium article: [Synthesize Hazy/Foggy Image using Monodepth and Atmospheric Scattering Model](https://leanhtrann.medium.com/synthesize-hazy-foggy-image-using-monodepth-and-atmospheric-scattering-model-9850c721b74e)
+Authors: Le-Anh Tran, Chung Nguyen Tran, Dong-Chul Park, Jordi Carrabina, David Castells-Rufas
+
+<!--- Medium: [Synthesize Hazy/Foggy Image using Monodepth and Atmospheric Scattering Model](https://leanhtrann.medium.com/synthesize-hazy-foggy-image-using-monodepth-and-atmospheric-scattering-model-9850c721b74e) --->
 
 ### Dependencies
+- Pytorch
 - OpenCV
-- Matplotlib
-- Numpy
 
-### How to Use
+### Setup
+
+(to be updated)
+
+### Image Synthesis
+
+(to be updated)
+
+<!--- ### How to Use
 
 #### 1. Generate Depth Map (using Monodepth2)
 - An easy-to-use implementation of Monodepth2 can be reached via this [link](https://github.com/nianticlabs/monodepth2)
@@ -26,7 +35,7 @@ Medium article: [Synthesize Hazy/Foggy Image using Monodepth and Atmospheric Sca
 - 1st row: original images
 - 2nd row: synthesized hazy images with sparse haze
 - 3rd row: synthesized hazy images with dense haze
-<img src="docs/synthesized-haze-2.png" width="900">
+<img src="docs/synthesized-haze-2.png" width="900"> --->
 
 ### Citation
 ```
@@ -41,9 +50,6 @@ Medium article: [Synthesize Hazy/Foggy Image using Monodepth and Atmospheric Sca
 }
 ```
 
-
 Have fun!
 
 LA Tran
-
-Oct. 2021

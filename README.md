@@ -12,37 +12,44 @@ Authors: [Le-Anh Tran](https://scholar.google.com/citations?user=WzcUE5YAAAAJ&hl
 </pre>
 
 ### Dependencies
+
+This repo is based on the following project/packages:
+
+- [Monodepth2](https://github.com/nianticlabs/monodepth2)
 - Pytorch
 - OpenCV
 
 ### Setup
 
-(to be updated)
+- Step 1: Create virtual environment:
+  
+```
+conda create -n hazesynt python=3.6
+conda activate hazesynt
+```
+
+- Step 2: Install required packages as in [Monodepth2](https://github.com/nianticlabs/monodepth2) or just run this command:
+
+```
+pip install -r requirements.txt
+```
+
+- Step 3: Download pre-trained model from [Monodepth2](https://github.com/nianticlabs/monodepth2) and place it in 'models/{model_name}', e.g., 'models/mono+stereo_640x192'.
 
 ### Image Synthesis
 
-(to be updated)
+Run the following command to generate synthetic image:
 
-<!--- ### How to Use
+```
+python main.py --image_path ./inputs --output_image_path ./outputs --model_name mono+stereo_640x192 --beta 2.0 --airlight 150
+```
 
-#### 1. Generate Depth Map (using Monodepth2)
-- An easy-to-use implementation of Monodepth2 can be reached via this [link](https://github.com/nianticlabs/monodepth2)
-
-#### 2. Locate Image Files (optional)
-- Put the original (clean) image in the folder "docs"
-- Put the generated depth map in the folder "docs"
-- Say "fname" is the file name of the clean image, the file name of the generated depth map should be "fname_depth"
-
-#### 3. Generate Hazy Image
-- Run notebook: synthesize-haze.ipynb
-
-### Results
-- 1st row: original images
-- 2nd row: synthesized hazy images with sparse haze
-- 3rd row: synthesized hazy images with dense haze
-<img src="docs/synthesized-haze-2.png" width="900"> --->
+The values of beta and airlight can be changed (recommended: beta = [1.0,3.0], airlight = [150,255]).
 
 ### Citation
+
+If you use this repo in your study, please cite our work:
+
 ```
 @article{tran2022novel,
   title={A novel encoder-decoder network with guided transmission map for single image dehazing},

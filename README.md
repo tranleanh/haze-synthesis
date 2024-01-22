@@ -11,7 +11,7 @@ Authors: [Le-Anh Tran](https://scholar.google.com/citations?user=WzcUE5YAAAAJ&hl
 </p>
 </pre>
 
-### Dependencies
+## Dependencies
 
 This repo is based on the following project/packages:
 
@@ -19,7 +19,7 @@ This repo is based on the following project/packages:
 - Pytorch
 - OpenCV
 
-### Setup
+## Setup
 
 - Step 1: Create virtual environment:
   
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 - Step 3: Download pre-trained model from [Monodepth2](https://github.com/nianticlabs/monodepth2) and place it in 'models/{model_name}', e.g., 'models/mono+stereo_640x192'.
 
-### Image Synthesis
+## Image Synthesis
 
 Run the following command to generate synthetic image:
 
@@ -46,7 +46,7 @@ python main.py --image_path ./inputs --output_image_path ./outputs --model_name 
 
 The values of beta and airlight can be changed (recommended: beta = [1.0,3.0], airlight = [150,255]).
 
-### Citation
+## Citation
 
 If you feel this repo is helpful for your study, please cite our work:
 

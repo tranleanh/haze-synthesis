@@ -50,15 +50,13 @@ The values of beta and airlight can be changed (recommended: beta = [1.0,3.0], a
 
 If you use this repo in your study, please cite our work:
 
-```
-@article{tran2022novel,
-  title={A novel encoder-decoder network with guided transmission map for single image dehazing},
-  author={Tran, Le-Anh and Moon, Seokyong and Park, Dong-Chul},
-  journal={Procedia Computer Science},
-  volume={204},
-  pages={682--689},
-  year={2022},
-  publisher={Elsevier}
+```bibtex
+@inproceedings{tran2024toward,
+  title={Toward Improving Robustness of Object Detectors against Domain Shift},
+  author={Tran, Le-Anh and Tran, Chung Nguyen and Park, Dong-Chul and Carrabina, Jordi and Castells-Rufas, David},
+  booktitle={2024 International Conference on Green Energy, Computing and Sustainable Technology (GECOST)},
+  year={2024},
+  organization={IEEE}
 }
 ```
 

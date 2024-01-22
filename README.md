@@ -48,7 +48,7 @@ The values of beta and airlight can be changed (recommended: beta = [1.0,3.0], a
 
 ### Citation
 
-If you use this repo in your study, please cite our work:
+If you feel this repo is helpful for your study, please cite our work:
 
 ```bibtex
 @inproceedings{tran2024toward,

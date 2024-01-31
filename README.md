@@ -1,6 +1,9 @@
 # Hazy/Dusty Image Synthesis for Driving Scenarios
 
-Paper: Toward Improving Robustness of Object Detectors against Domain Shift (GECOST 2024) [[pdf](https://tranleanh.github.io/assets/pdf/GECOST_2024.pdf)] [[Medium](https://leanhtrann.medium.com/synthesize-hazy-foggy-image-using-monodepth-and-atmospheric-scattering-model-9850c721b74e)]
+[![Paper](https://img.shields.io/badge/Paper-Preprint-lightgrey)](https://tranleanh.github.io/assets/pdf/GECOST_2024.pdf)
+[![Blog](https://img.shields.io/badge/Blog-Medium-blue)](https://leanhtrann.medium.com/synthesize-hazy-foggy-image-using-monodepth-and-atmospheric-scattering-model-9850c721b74e)
+
+Paper: Toward Improving Robustness of Object Detectors against Domain Shift (IEEE GECOST 2024)
 
 Authors: [Le-Anh Tran](https://scholar.google.com/citations?user=WzcUE5YAAAAJ&hl=en), [Chung Nguyen Tran](https://scholar.google.com/citations?user=NOlVIV4AAAAJ&hl=en), [Dong-Chul Park](https://scholar.google.com/citations?user=VZUH4sUAAAAJ&hl=en), [Jordi Carrabina](https://scholar.google.com/citations?user=V9-s3BIAAAAJ&hl=ca), [David Castells-Rufas](https://scholar.google.com/citations?user=srfRvBIAAAAJ&hl=en)
 

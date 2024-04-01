@@ -56,9 +56,10 @@ If you feel this repo is helpful for your study, please cite our work:
 
 ```bibtex
 @inproceedings{tran2024toward,
-  title={Toward Improving Robustness of Object Detectors against Domain Shift},
+  title={Toward improving robustness of object detectors against domain shift},
   author={Tran, Le-Anh and Tran, Chung Nguyen and Park, Dong-Chul and Carrabina, Jordi and Castells-Rufas, David},
   booktitle={2024 International Conference on Green Energy, Computing and Sustainable Technology (GECOST)},
+  pages={01--05},
   year={2024},
   organization={IEEE}
 }
